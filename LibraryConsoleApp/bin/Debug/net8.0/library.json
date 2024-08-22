@@ -1,0 +1,16 @@
+[
+  {
+    "Title": "Tur i skoven",
+    "Author": "Sebastian Klein",
+    "Year": 1993,
+    "ISBN": "12345abc",
+    "Borrowed": false
+  },
+  {
+    "Title": "asd",
+    "Author": "asd",
+    "Year": 1232,
+    "ISBN": "123",
+    "Borrowed": true
+  }
+]

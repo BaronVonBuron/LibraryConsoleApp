@@ -1,0 +1,14 @@
+C:\Users\andbu\RiderProjects\LibraryConsoleApp\LibraryConsoleApp\bin\Debug\net8.0\LibraryConsoleApp.exe
+C:\Users\andbu\RiderProjects\LibraryConsoleApp\LibraryConsoleApp\bin\Debug\net8.0\LibraryConsoleApp.deps.json
+C:\Users\andbu\RiderProjects\LibraryConsoleApp\LibraryConsoleApp\bin\Debug\net8.0\LibraryConsoleApp.runtimeconfig.json
+C:\Users\andbu\RiderProjects\LibraryConsoleApp\LibraryConsoleApp\bin\Debug\net8.0\LibraryConsoleApp.dll
+C:\Users\andbu\RiderProjects\LibraryConsoleApp\LibraryConsoleApp\bin\Debug\net8.0\LibraryConsoleApp.pdb
+C:\Users\andbu\RiderProjects\LibraryConsoleApp\LibraryConsoleApp\obj\Debug\net8.0\LibraryConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andbu\RiderProjects\LibraryConsoleApp\LibraryConsoleApp\obj\Debug\net8.0\LibraryConsoleApp.AssemblyInfoInputs.cache
+C:\Users\andbu\RiderProjects\LibraryConsoleApp\LibraryConsoleApp\obj\Debug\net8.0\LibraryConsoleApp.AssemblyInfo.cs
+C:\Users\andbu\RiderProjects\LibraryConsoleApp\LibraryConsoleApp\obj\Debug\net8.0\LibraryConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\andbu\RiderProjects\LibraryConsoleApp\LibraryConsoleApp\obj\Debug\net8.0\LibraryConsoleApp.dll
+C:\Users\andbu\RiderProjects\LibraryConsoleApp\LibraryConsoleApp\obj\Debug\net8.0\refint\LibraryConsoleApp.dll
+C:\Users\andbu\RiderProjects\LibraryConsoleApp\LibraryConsoleApp\obj\Debug\net8.0\LibraryConsoleApp.pdb
+C:\Users\andbu\RiderProjects\LibraryConsoleApp\LibraryConsoleApp\obj\Debug\net8.0\LibraryConsoleApp.genruntimeconfig.cache
+C:\Users\andbu\RiderProjects\LibraryConsoleApp\LibraryConsoleApp\obj\Debug\net8.0\ref\LibraryConsoleApp.dll
