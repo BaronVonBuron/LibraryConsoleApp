@@ -44,7 +44,7 @@ public class Library
         string json1 = JsonSerializer.Serialize(Users, new JsonSerializerOptions { WriteIndented = true });
         File.WriteAllText("users.json", json1);
     }
-    public void Load(string path)
+    public void Load(string path) 
     {
         string json = File.ReadAllText(path);
         Books = JsonSerializer.Deserialize<List<Book.Book>>(json);
