@@ -12,3 +12,4 @@ C:\Users\andbu\RiderProjects\LibraryConsoleApp\LibraryConsoleApp\obj\Debug\net8.
 C:\Users\andbu\RiderProjects\LibraryConsoleApp\LibraryConsoleApp\obj\Debug\net8.0\LibraryConsoleApp.pdb
 C:\Users\andbu\RiderProjects\LibraryConsoleApp\LibraryConsoleApp\obj\Debug\net8.0\LibraryConsoleApp.genruntimeconfig.cache
 C:\Users\andbu\RiderProjects\LibraryConsoleApp\LibraryConsoleApp\obj\Debug\net8.0\ref\LibraryConsoleApp.dll
+C:\Users\andbu\RiderProjects\LibraryConsoleApp\LibraryConsoleApp\obj\Debug\net8.0\LibraryConsoleApp.sourcelink.json
